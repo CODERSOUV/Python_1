@@ -1,0 +1,5 @@
+name=input("Enter user name")
+print(f"Hello, {name}")
+age=int(input("Enter your age"))
+print(f"Months is {age*12}")
+print(age>=18)
