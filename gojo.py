@@ -1,3 +1,4 @@
 from sketchpy import library
-obj=library.gojo()
+obj=library.rdj()
+
 obj.draw()
